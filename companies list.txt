@@ -1,0 +1,23 @@
+1 - Kiwix                              - Internet content available offline.
+2 - Learning Equality                  - Building equity in education to transform lives
+3 - Jitsi                              - State-of-the-art video conferencing
+4 - Open Transit Software Foundation   - Help make public transit better
+5 - Wikimedia Foundation               - Bringing free educational content to the world
+6 - Submitty                           - Homework Autograding and Course Management Tools
+7 - Creative Commons                   - Nonprofit building a global digital commons.
+8 - Mautic                             - Free your Marketing with Open Source!
+9 - Joplin                             - The secure note taking application
+10 - The Palisadoes Foundation         - Social media and member management for non-profits
+11 - Internet Archive                  - Universal Access to All Knowledge
+12 - GNU Octave                        - Free Your Numbers
+13 - OpenELIS Global                   - Empowering labs to Ensure Quality Health Care
+14 - Scala Center                      - Guide and support the Scala community
+15 - Open HealthCare Network           - Reimagining Healthcare Delivery
+16 - MoveIt                            - Moving robots into the future
+17 - Oppia Foundation                  - Free platform for interactive, tutor-like lessons
+18 - Organic Maps                      - Offline maps app for tourists, cyclers & hikers
+19 - Inkscape                          - Draw freely!
+20 - VideoLAN                          - Open Source Multimedia for everyone!
+21 - omegaUp                           - Open CS Education as a catalyst for social change
+22 - The Rust Foundation               - A language empowering everyone
+23 - Department of Biomedical Informatics, Emory University - Biomedical research to advance healthcare
